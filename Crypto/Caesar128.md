@@ -19,3 +19,5 @@ Cách hoạt động của script này cũng khá là đơn giản, bruteforce c
 Vì chúng ta đã biết format của flag là `TLUCTF2025{` nên việc xác nhận cũng khá là dễ dàng
 
 > TLUCTF2025{e1cbb0c3879af8347246f12c559a86b5}
+
+Chall cũng không có gì khác so với Caesar mà chúng ta gặp cả nên là cũng khá là dễ để giải 
