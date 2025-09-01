@@ -9,5 +9,7 @@ Mình sử dụng [White Space Interperter ](https://naokikp.github.io/wsi/white
 
 Vì chall này không xuống dòng sẵn như CIT nên không thể sử dụng tool để solve luôn được nên mình đã copy đoạn mã Morse ra được từ code và ném cho ~~nole~~ Chat GPT để giải
 
-> flag
+<img width="889" height="463" alt="image" src="https://github.com/user-attachments/assets/36585b64-9764-497f-8681-ed1f6276f2b2" />
+
+> TLUCTF2025{4b5f6f158fd4b3662f2e45e9d0366a31}
 
