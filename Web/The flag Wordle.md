@@ -1,4 +1,4 @@
-<img width="1885" height="957" alt="image" src="https://github.com/user-attachments/assets/221dd399-2288-4410-8755-ad783fd15715" /># The flag Wordle 
+# The flag Wordle 
 <img width="485" height="407" alt="image" src="https://github.com/user-attachments/assets/4b0ba84b-46b2-43ba-aeaf-772a11992fef" />
 
 Chall này vừa khá là vui vừa làm mình khá là ức chế `(do mình ngu)` 
