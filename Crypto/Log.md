@@ -6,7 +6,7 @@ Nhìn thoạt qua thì trông bài toán này rất đơn giản, nhưng mà khi
 > Đây là một bài toán Log Tuyến Tính (`Mình ngu tuyến tính`)
 
 Giải thích sơ qua code của chall:
-Đầu tiên biến p sẽ là một số prime ngẫu nhiên trong khoảng 1024 bit và g được lấy ngẫu nhiên từ [0->p²]
+Đầu tiên biến p sẽ là một số prime ngẫu nhiên trong khoảng 1024 bit và g được lấy ngẫu nhiên từ khoảng 0 đến p²
 Biến k ở đây sẽ là flag được encrypt từ bytes sang dạng long và đảm bảo k < p
 
 <img width="311" height="124" alt="image" src="https://github.com/user-attachments/assets/8406ac11-149d-49c6-94a9-63463a4ec7a6" />
