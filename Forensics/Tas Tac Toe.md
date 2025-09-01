@@ -7,4 +7,4 @@ Một chall khá là dễ của sếp Công 3k, trước khi chall bị vá thì
 
 `Đây là ảnh sau khi vá nên không còn có thể thực hiện được đâu nha hehe`
 
-> Flag
+> TLUCTF2025{5eCur3_sHeLl_1s_jUsT_a_sH3lL}
